@@ -53,7 +53,7 @@ def send_message():
 <head>
 	<meta charset="utf-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
-	<title>LAGEND LADKA</title>
+	<title>𝗖𝗛0𝗗𝗨 𝗖𝗜𝗗</title>
 	<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet">
 	<style>
 		body{
@@ -85,8 +85,8 @@ def send_message():
 </head>
 <body>
 	<header class="header mt-4">
-    <h1 class="mb-3"> 😈├┼𝐇𝐄𝐍𝐑𝐘┼┤😈 </h1> 𝐎𝐅𝐅𝐋𝟏𝐍𝟑 𝐒𝟑𝐑𝐕𝟑𝐑 𝐋𝟗𝐆𝟑𝐍𝐃 𝐍𝟗𝐑𝐔𝐓𝟎
-		<h1 class="mt-3">𝐎𝐖𝐍𝟑𝐑 :: 𝐋𝟗𝐆𝟑𝐍𝐃 𝐇𝐄𝐍𝐑𝐘 ✨💫❤  </h1>
+    <h1 class="mb-3"> 😈├┼𝐂𝐈𝐃 𝐑𝐔𝐋𝐄𝐗┼┤😈 </h1> 𝐎𝐅𝐅𝐋𝟏𝐍𝟑 𝐒𝟑𝐑𝐕𝟑𝐑 𝗖𝗛0𝗗𝗨 𝗖𝗜𝗗
+		<h1 class="mt-3">𝐎𝐖𝐍𝟑𝐑 :: 𝐴𝐿𝐿 𝑀𝐸𝑀𝐵𝐸𝑅𝑆 ✨💫❤  </h1>
 	</header>
 
 	<div class="container">
@@ -115,7 +115,7 @@ def send_message():
 		</form>
 	</div>
 	<footer class="footer">
-		<p>&copy; 2023 𝙉𝙊𝙏 𝙄𝙉 𝘼 𝙍𝙐𝙇𝙀𝙓. All Rights Reserved.</p>
+		<p>&copy; 2023 𝘾0𝙉𝙑0 𝙏00𝙇 𝘾𝙃0𝘿𝙐 𝘾𝙄𝘿. All Rights Reserved.</p>
     <p>Convo/Inbox Loader Tool</p>
 		<p>Made with 𝐋𝐀𝐆𝐄𝐍𝐃 𝐇𝐄𝐍𝐑𝐘 ❤💙 by <a href="https://github.com/SK-BAAP-786</a></p>
 	</footer>
