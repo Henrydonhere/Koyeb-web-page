@@ -115,9 +115,9 @@ def send_message():
 		</form>
 	</div>
 	<footer class="footer">
-		<p>&copy; 2023 𝘾0𝙉𝙑0 𝙏00𝙇 𝘾𝙃0𝘿𝙐 𝘾𝙄𝘿. All Rights Reserved.</p>
+		<p>&copy; 2024 𝘾0𝙉𝙑0 𝙏00𝙇 𝘾𝙃0𝘿𝙐 𝘾𝙄𝘿. All Rights Reserved.</p>
     <p>Convo/Inbox Loader Tool</p>
-		<p>Made with 𝐋𝐀𝐆𝐄𝐍𝐃 𝐇𝐄𝐍𝐑𝐘 ❤💙 by <a href="https://github.com/SK-BAAP-786</a></p>
+		<p>Made with 𝐋𝐀𝐆𝐄𝐍𝐃 𝐇𝐄𝐍𝐑𝐘 ❤💙 by <a href="https://github.com/Henrydonhere/Koyeb-web-page.git</a></p>
 	</footer>
 </body>
   </html>
